@@ -5,3 +5,6 @@ very important to us so we are sharing all of our plans and recipes here so that
 magic is made.
 
 You can find all of our [recipes here](recipes/).
+
+> [!CAUTION]
+> We're just getting started so there may be a few mistakes we need to iron out
