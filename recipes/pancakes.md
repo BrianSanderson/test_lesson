@@ -1,12 +1,13 @@
 # Pancakes
 
-50 Servings (typically an hour of  service)
+As written, 4 servings (typically need 60 for an hour of service)
 
 ## Ingredients
 
-1. Flour
-2. Sugar
-3. Salt
-4. Baking Soda
-5. Butter
-6. Love 
++ 2 cups all-purpose flour
++ 1/4 cup salt
++ 3/4 teaspoon sugar
++ 3 teaspoons baking soda
++ 2 large eggs
++ 1 cup whole milk
++ Love
