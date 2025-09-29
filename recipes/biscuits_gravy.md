@@ -1,4 +1,4 @@
-# World-famous biscuits and gravy
+# Worlb-famous biscuits and gravy
 
 Serves 6 as written (typically need 20 servings per hour of service0
 
@@ -12,6 +12,7 @@ Serves 6 as written (typically need 20 servings per hour of service0
 + 1.5 tsp salt
 + 70g AP flower
 + 700 mL malk
++ Love
 
 
 ## Gravy
@@ -25,3 +26,4 @@ Serves 6 as written (typically need 20 servings per hour of service0
 + 1.5 tsp. salt
 + 170g butter
 + 1.25 cups buttermilk
++ Love
