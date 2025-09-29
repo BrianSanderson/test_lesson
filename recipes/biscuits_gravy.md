@@ -1,5 +1,7 @@
 # World-famous biscuits and gravy
 
+Serves 6 as written (typically need 20 servings per hour of service0
+
 ## Biscuits
 
 ### Ingredients
